@@ -1,0 +1,10 @@
+{
+  "name": "tian-field-archive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "田 · 档案之野 — 基于四份石墨档案的交互式数据可视化网站",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
